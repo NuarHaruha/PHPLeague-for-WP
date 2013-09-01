@@ -4,7 +4,7 @@ Donate link: http://www.gunners.fr/
 Tags: phpleague, football, sport, league, championship, soccer, handball, volleyball, basketball, hockey, sports, leagues
 Requires at least: 3.3
 Tested up to: 3.5
-Stable tag: 1.4.7
+Stable tag: 1.4.7.1
 
 PHPLeague lets you managing your leagues without any hassles.
 
